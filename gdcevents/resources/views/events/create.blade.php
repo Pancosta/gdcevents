@@ -4,8 +4,6 @@
 
 @section('content')
 
-    @if($id != null)
-        <p> Exibindo produto: {{$id}} </p>
-    @endif
-    
+
+<h1> Crie um evento </h1>
 @endsection
