@@ -32,6 +32,17 @@ header {
   border-color: #C28008;
 }
 
+.msg{
+  background-color: #D4EDDA;
+  color: #155424;
+  border: 1px solid #C3E6CB;
+  width: 100%;
+  margin-bottom: 0;
+  text-align: center;
+  padding: 10px;
+}
+
+
 /* Barra de navegação */
 #navbar img {
   width: 40px;
@@ -153,3 +164,4 @@ footer {
 footer p {
   margin-bottom: 0;
 }
+
